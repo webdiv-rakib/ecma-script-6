@@ -25,3 +25,4 @@ console.log(sum);
 // hat to finish my apex legends battle pass today
 // final exam about to exam so i have to prepare my self for semester final examination
 // tomorrow is my math exam
+// just finished my first exam
