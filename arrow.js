@@ -26,3 +26,4 @@ console.log(sum);
 // final exam about to exam so i have to prepare my self for semester final examination
 // tomorrow is my math exam
 // just finished my first exam
+// hadi vai janaja was today i am sad today
