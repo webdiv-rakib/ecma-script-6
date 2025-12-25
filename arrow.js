@@ -22,3 +22,4 @@ console.log(sum);
 
 // tomorrow is my Art of living exam and also last exam'
 // final examination just finished today
+// another day wasted successfully
