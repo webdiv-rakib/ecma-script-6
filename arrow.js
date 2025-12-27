@@ -24,3 +24,4 @@ console.log(sum);
 // final examination just finished today
 // another day wasted successfully
 // today i bought my new winter jacket
+// going for the shopping
