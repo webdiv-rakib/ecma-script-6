@@ -30,3 +30,4 @@ console.log(sum);
 // will start working 
 // this year last commit
 // end of 2025sss
+// new year first day no work
