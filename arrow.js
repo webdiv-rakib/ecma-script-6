@@ -19,3 +19,4 @@ const add4 = (num1, num2, num3, num4) => num1 + num2 + num3 + num4;
 // const sum = add(5, 5);
 const sum = add4(4, 5, 6, 7);
 console.log(sum);
+// lets start working from tomorrow
