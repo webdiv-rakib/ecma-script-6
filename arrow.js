@@ -25,3 +25,4 @@ console.log(sum);
 // just added a comment
 // successfully wasted 7days
 // mama is dead pay for him
+// today i just bought sneakers
