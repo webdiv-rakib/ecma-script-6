@@ -29,3 +29,5 @@ const doMath = (x, y, z) => {
 }
 const numbers = doMath(2, 3, 4);
 console.log(numbers);
+
+// Task: difference between arrow function and regular function
