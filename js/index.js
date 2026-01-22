@@ -1,4 +1,4 @@
-console.log('index.js connected');
+//=====Users Data Load on website==========
 function loadUsers() {
     const url = 'https://jsonplaceholder.typicode.com/users';
     fetch(url)
