@@ -1,2 +1,2 @@
 // just added a comment
-// asdqawed 
+// i applied for convocation and already received all my gifts
