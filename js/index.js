@@ -8,7 +8,6 @@ function loadPosts() {
 function displayPosts(data) {
     const ul = document.getElementById('posts-list');
     for (const post of data) {
-        console.log(post);
         const li = document.createElement('li');
         li.innerText = post.title;
         ul.appendChild(li);
@@ -30,6 +29,23 @@ function displayComments(data) {
         ul.appendChild(li);
     }
 }
+
+// =====Albums=====
+function loadAlbums() {
+    const url = 'https://jsonplaceholder.typicode.com/albums';
+    fetch(url)
+        .then(res => res.json())
+        .then(data => displayAlbums(data))
+}
+function displayAlbums(data) {
+    const ul = document.getElementById('albums-list');
+    for (const album of data) {
+        const li = document.createElement('li');
+        li.innerText = album.title;
+        ul.appendChild(li);
+    }
+}
+
 
 //=====Users Data Load on website==========
 function loadUsers() {
