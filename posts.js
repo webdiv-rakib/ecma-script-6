@@ -28,4 +28,4 @@ function displayPost(posts) {
     }
 }
 
-loadPosts();
+// loadPosts();

@@ -12,6 +12,17 @@
             border-radius: 8px;
             margin: 10px;
         }
+
+        button {
+            color: black;
+        }
+
+        .user{
+            background-color: aquamarine;
+            margin: 15px;
+            padding: 10px;
+            border-radius: 12px;
+        }
     </style>
 </head>
 
@@ -22,7 +33,16 @@
     <main>
         <section>
             <h3>All Posts are here</h3>
+            <button onclick="loadPosts()">Show All Posts</button>
             <div id="posts-container">
+
+            </div>
+        </section>
+        <hr>
+        <section>
+            <h3>Users Information</h3>
+            <button onclick="loadUsers()">Show Users Information</button>
+            <div id="users-container">
 
             </div>
         </section>
@@ -31,6 +51,7 @@
 
     </footer>
     <script src="posts.js"></script>
+    <script src="users.js"></script>
 </body>
 
 </html>
