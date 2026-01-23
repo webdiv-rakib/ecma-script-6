@@ -46,6 +46,21 @@ function displayAlbums(data) {
     }
 }
 
+// =====Photos=====
+function loadPhotos() {
+    const url = 'https://jsonplaceholder.typicode.com/photos';
+    fetch(url)
+        .then(res => res.json())
+        .then(data => displayPhotos(data))
+}
+function displayPhotos(data) {
+    const ul = document.getElementById('photos-list');
+    for (const photo of data) {
+        const li = document.createElement('li');
+        li.innerText = photo.title;
+        ul.appendChild(li);
+    }
+}
 
 //=====Users Data Load on website==========
 function loadUsers() {
