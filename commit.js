@@ -10,3 +10,4 @@ console.log('hi');
 //4. 10th February gonna meet my girl
 //5. i have to wake up at morning 
 //6. this file is like my personal dairy 
+//7. my this github mobile is so much handy
