@@ -7,3 +7,4 @@ console.log('hi');
 //1. Just came home today for election.
 //2. Will get back hall very soon
 //3. Just builded first cv.
+//4. 10th February gonna meet my girl
