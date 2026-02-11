@@ -14,3 +14,4 @@ console.log('hi');
 //8. feels like eid day its 11/02/2026
 //9. tomorrow is national election day
 //10. don't know who will won but hope its Nasir uddin patwari
+//11. vote for dari palla i know they all are not good but lets see are they same as awamili and bnp or not
