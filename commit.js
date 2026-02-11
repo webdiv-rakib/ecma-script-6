@@ -13,3 +13,4 @@ console.log('hi');
 //7. my this github mobile is so much handy
 //8. feels like eid day its 11/02/2026
 //9. tomorrow is national election day
+//10. don't know who will won but hope its Nasir uddin patwari
