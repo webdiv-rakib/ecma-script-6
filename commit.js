@@ -12,3 +12,4 @@ console.log('hi');
 //6. this file is like my personal dairy 
 //7. my this github mobile is so much handy
 //8. feels like eid day its 11/02/2026
+//9. tomorrow is national election day
