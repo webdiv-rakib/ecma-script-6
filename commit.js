@@ -21,3 +21,4 @@ console.log('hi');
 // waiting for nasiruddin patwary 
 // paraying for him hope he will win
 // so bnp won 
+// jamat ncp lost
