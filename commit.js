@@ -22,3 +22,4 @@ console.log('hi');
 // paraying for him hope he will win
 // so bnp won 
 // jamat ncp lost
+// patuwary also lost
