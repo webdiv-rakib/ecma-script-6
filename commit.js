@@ -6,3 +6,4 @@ console.log('hi');
 console.log('hi');
 // 1. deleted old comments 
 // 2. no device with me except mobile
+// 3. still learning react js by watching videos 
