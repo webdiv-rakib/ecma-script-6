@@ -7,3 +7,4 @@ console.log('hi');
 // 1. deleted old comments 
 // 2. no device with me except mobile
 // 3. still learning react js by watching videos 
+// 4. learning alot but can't practice because i got no device with me
