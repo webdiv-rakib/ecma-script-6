@@ -5,3 +5,4 @@ console.log('just tried github mobile to commit');
 console.log('hi');
 console.log('hi');
 // 1. deleted old comments 
+// 2. no device with me except mobile
