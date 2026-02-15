@@ -10,3 +10,4 @@ console.log('hi');
 // 4. learning alot but can't practice because i got no device with me
 // 5. first assignment of restart mission
 // 6. lets started
+// 7. just taken my hsc Certificate 
