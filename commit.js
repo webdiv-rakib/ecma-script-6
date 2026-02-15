@@ -9,3 +9,4 @@ console.log('hi');
 // 3. still learning react js by watching videos 
 // 4. learning alot but can't practice because i got no device with me
 // 5. first assignment of restart mission
+// 6. lets started
